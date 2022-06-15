@@ -1,0 +1,34 @@
+[
+  {
+    "package": "AEenrich",
+    "oncran": true
+  },
+  {
+    "package": "FEprovideR",
+    "oncran": true
+  },
+  {
+    "package": "lcra",
+    "oncran": true
+  },
+  {
+    "package": "MetaIntegration",
+    "oncran": true
+  },
+  {
+    "package": "PPMR",
+    "oncran": true
+  },
+  {
+    "package": "qif",
+    "oncran": true
+  },
+  {
+    "package": "SEIRfansy",
+    "oncran": true
+  },
+  {
+    "package": "SynDI",
+    "oncran": true
+  }
+]

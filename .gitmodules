@@ -3,3 +3,43 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AEenrich"]
+	path = AEenrich
+	url = https://github.com/umich-biostatistics/aeenrich
+	shallow = true
+	registered = true
+[submodule "FEprovideR"]
+	path = FEprovideR
+	url = https://github.com/umich-biostatistics/feprovider
+	shallow = true
+	registered = true
+[submodule "lcra"]
+	path = lcra
+	url = https://github.com/umich-biostatistics/lcra
+	shallow = true
+	registered = true
+[submodule "MetaIntegration"]
+	path = MetaIntegration
+	url = https://github.com/umich-biostatistics/metaintegration
+	shallow = true
+	registered = true
+[submodule "PPMR"]
+	path = PPMR
+	url = https://github.com/umich-biostatistics/ppmr
+	shallow = true
+	registered = true
+[submodule "qif"]
+	path = qif
+	url = https://github.com/umich-biostatistics/qif
+	shallow = true
+	registered = true
+[submodule "SEIRfansy"]
+	path = SEIRfansy
+	url = https://github.com/umich-biostatistics/seirfansy
+	shallow = true
+	registered = true
+[submodule "SynDI"]
+	path = SynDI
+	url = https://github.com/umich-biostatistics/syndi
+	shallow = true
+	registered = true
