@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "MetaIntegration",
-    "oncran": true
-  },
-  {
     "package": "PPMR",
     "oncran": true
   },
