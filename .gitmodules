@@ -18,6 +18,11 @@
 	url = https://github.com/umich-biostatistics/lcra
 	shallow = true
 	registered = true
+[submodule "MetaIntegration"]
+	path = MetaIntegration
+	url = https://github.com/umich-biostatistics/metaintegration
+	shallow = true
+	registered = true
 [submodule "PPMR"]
 	path = PPMR
 	url = https://github.com/umich-biostatistics/ppmr
