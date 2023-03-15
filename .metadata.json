@@ -1,18 +1,6 @@
 [
   {
-    "package": "SynDI",
-    "oncran": true
-  },
-  {
-    "package": "PPMR",
-    "oncran": true
-  },
-  {
     "package": "AEenrich",
-    "oncran": true
-  },
-  {
-    "package": "qif",
     "oncran": true
   },
   {
@@ -28,7 +16,19 @@
     "oncran": true
   },
   {
+    "package": "PPMR",
+    "oncran": true
+  },
+  {
+    "package": "qif",
+    "oncran": true
+  },
+  {
     "package": "SEIRfansy",
+    "oncran": true
+  },
+  {
+    "package": "SynDI",
     "oncran": true
   }
 ]
