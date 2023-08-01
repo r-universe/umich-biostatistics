@@ -8,21 +8,21 @@
 [submodule "FEprovideR"]
 	path = FEprovideR
 	url = https://github.com/umich-biostatistics/feprovider
-[submodule "lcra"]
-	path = lcra
-	url = https://github.com/umich-biostatistics/lcra
 [submodule "MetaIntegration"]
 	path = MetaIntegration
 	url = https://github.com/umich-biostatistics/metaintegration
 [submodule "PPMR"]
 	path = PPMR
 	url = https://github.com/umich-biostatistics/ppmr
-[submodule "qif"]
-	path = qif
-	url = https://github.com/umich-biostatistics/qif
 [submodule "SEIRfansy"]
 	path = SEIRfansy
 	url = https://github.com/umich-biostatistics/seirfansy
 [submodule "SynDI"]
 	path = SynDI
 	url = https://github.com/umich-biostatistics/syndi
+[submodule "lcra"]
+	path = lcra
+	url = https://github.com/umich-biostatistics/lcra
+[submodule "qif"]
+	path = qif
+	url = https://github.com/umich-biostatistics/qif
