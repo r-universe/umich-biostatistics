@@ -1,0 +1,10 @@
+{
+  "id": 42528596,
+  "created_at": "2023-10-04T15:13:02.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["PRECISE", "FEprovideR", "IMAGE", "qif", "iBAG", "PPMR", "adaptBayes", "ECLasso", "snSMART", "TimeVarying", "corrsurv", "lcra", "metaboplot", "SBLF", "AEenrich", "ers", "SEIRfansy", "zGPS.AO", "SynDI", "healthds", "ActiSleep"]
+}
